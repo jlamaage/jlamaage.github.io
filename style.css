@@ -1,0 +1,36 @@
+* {
+    font-family:cursive;   
+}
+.moods img{
+    border-radius: 10%;
+    border: 1px solid transparent;
+    background: #66c;
+    opacity: 0.6;
+}
+body {
+    display:grid;
+    justify-content: center;
+    background-image: url(Images/background3.jpeg);
+    background-size: cover;       
+}
+.myself {
+    color:#303;
+    margin: auto;
+}
+.courses {
+    color: #606
+}
+.movies {
+    color:aliceblue;
+    margin: auto;   
+}
+.moods {
+    color: #66c;
+}
+.ffacts {
+    color: #0cf;
+    margin: auto;
+} 
+.movies a {
+    color:#303;
+}
